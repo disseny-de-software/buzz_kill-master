@@ -1,0 +1,23 @@
+{
+  "@@locale": "ca_ES",
+  "formPageAppBarTitle": "Calculadora de mort per Cafeïna",
+  "firstSuggestedDrinkName": "Cafè de màquina (tasseta)",
+  "secondSuggestedDrinkName": "Expresso",
+  "thirdSuggestedDrinkName": "Cafè amb llet (tassa)",
+  "formPageWeightInputLabel": "Pes",
+  "formPageWeightInputSuffix": "kilos",
+  "formPageRadioListLabel": "Esculliu una beguda",
+  "formPageActionButtonTitle": "CALCULA",
+  "formPageCustomDrinkRadioTitle": "Una altra",
+  "formPageCustomDrinkServingSizeInputLabel": "Mida",
+  "formPageCustomDrinkServingSizeInputSuffix": "ml",
+  "formPageCustomDrinkCaffeineAmountInputLabel": "Cafeïna",
+  "formPageCustomDrinkCaffeineAmountInputSuffix": "mg",
+  "resultsPageAppBarTitle": "Dosis",
+  "resultsPageLethalDosageTitle": "Dosi Letal",
+  "resultsPageLethalDosageMessage": "{quantity, plural, one{Una unitat.} other{{formattedNumber} unitats al vostre sistema de cop.}}",
+  "resultsPageSafeDosageTitle": "Limite Segur Diari",
+  "resultsPageSafeDosageMessage": "{quantity, plural, one{Una unitat al dia.} other{{formattedNumber} unitats al dia.}}",
+  "resultsPageFirstDisclaimer": "*Basat en una unitat de {servingSize} ml.",
+  "resultsPageSecondDisclaimer": "*Es refereix a persones de més de 18 anys. Aquesta calculadora no substitueix els consells dels professionals mèdics."
+}
